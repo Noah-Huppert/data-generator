@@ -1,0 +1,10 @@
+{
+  "name": "intellij-empty-js",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "index.js"
+  },
+  "dependencies": {
+    "mongodb-datasets": "^0.1.5"
+  }
+}
